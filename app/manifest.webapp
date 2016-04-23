@@ -1,7 +1,7 @@
 {
   "name": "東京ラジオちゃん",
   "description": "東京で聴ける FM ラジオ",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "type": "privileged",
   "launch_path": "/index.html",
   "developer": {

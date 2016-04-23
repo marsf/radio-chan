@@ -6,6 +6,11 @@
         "twitter": "InterFM761_JP",
         "note": "InterFM will move to 89.7MHz after 2015-10-01."
     },
+    "76.2": {
+        "name": "ラジオ高崎",
+        "timetable": "http://www.takasaki.fm/program/",
+        "twitter": "radiotakasaki"
+    },
     "76.3": {
         "name": "KIWI-FM",
         "timetable": "http://hinofm.webcrow.jp/b2.htm",
@@ -26,6 +31,11 @@
         "name": "放送大学",
         "timetable": "http://www.ouj.ac.jp/hp/bangumi2/bangumi_radio.php",
         "twitter": ""
+    },
+    "77.7": {
+        "name": "FMチャッピー",
+        "timetable": "http://fmchappy.jp/programguide",
+        "twitter": "fmchappy"
     },
     "78.0": {
         "name": "bayfm",
@@ -87,6 +97,11 @@
         "timetable": "http://www.chofu-fm.com/schedules",
         "twitter": "chofu_fm"
     },
+    "83.9": {
+        "name": "FMさがみ",
+        "timetable": "http://fm839.com/timetable/",
+        "twitter": "fmhot839"
+    },
     "84.0": {
         "name": "中央FM RadioCity",
         "timetable": "http://fm840.jp/timetable.html",
@@ -112,10 +127,25 @@
         "timetable": "http://www.fmyokohama.co.jp/timetable/",
         "twitter": "FyokoG"
     },
+    "85.6": {
+        "name": "FM川口",
+        "timetable": "http://www.fm856.co.jp/timetable/mon.html",
+        "twitter": "856studio"
+    },
     "86.3": {
         "name": "FMぐんま",
         "timetable": "http://www.fmgunma.com/time/weekday.php",
         "twitter": "fmgunma_bangumi"
+    },
+    "86.8": {
+        "name": "ハロー・ハッピーこしがやFM",
+        "timetable": "http://www.koshigaya.fm/information.html",
+        "twitter": ""
+    },
+    "87.6": {
+        "name": "渋谷のラジオ",
+        "timetable": "https://shiburadi.com/",
+        "twitter": "shibuyanoradio"
     },
     "89.7": {
         "name": "InterFM897",
