@@ -1,0 +1,31 @@
+{
+  "name": "東京ラジオちゃん",
+  "description": "東京で聴ける FM ラジオ",
+  "version": "0.6.2",
+  "type": "privileged",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "marsf",
+    "url": "http://www.geocities.jp/chimantaea_mirabilis/gaia/radio-chan/"
+  },
+  "permissions": {
+    "fmradio":{},
+    "speaker-control":{},
+    "audio-channel-content":{},
+    "settings":{ "access": "readonly" }
+  },
+  "locales": {
+    "en-US": {
+      "name": "Tokyo Radio-chan",
+      "description": "FM Radio app for Tokyo area."
+    }
+  },
+  "default_locale": "ja",
+  "icons": {
+    "64": "/style/icons/trc_64.png",
+    "128": "/style/icons/trc_128.png",
+    "256": "/style/icons/trc_256.png"
+  },
+  "orientation": "default",
+  "installs_allowed_from": [ "*" ]
+}

@@ -1,0 +1,141 @@
+{
+  "TOKYO": {
+    "76.1": {
+        "name": "InterFM",
+        "timetable": "http://www.interfm.co.jp/timetable/?region=tokyo",
+        "twitter": "InterFM761_JP",
+        "note": "InterFM will move to 89.7MHz after 2015-10-01."
+    },
+    "76.3": {
+        "name": "KIWI-FM",
+        "timetable": "http://hinofm.webcrow.jp/b2.htm",
+        "twitter": ""
+    },
+    "76.4": {
+        "name": "RADIO BERRY FM栃木",
+        "timetable": "http://www.berry.co.jp/timetable/",
+        "twitter": "RADIOBERRY764FM"
+    },
+    "76.8": {
+        "name": "KIWI-FM",
+        "timetable": "http://hinofm.webcrow.jp/b2.htm",
+        "twitter": "",
+        "note": "KIWI-FM will move to 76.3MHz after 2015-12-01."
+    },
+    "77.1": {
+        "name": "放送大学",
+        "timetable": "http://www.ouj.ac.jp/hp/bangumi2/bangumi_radio.php",
+        "twitter": ""
+    },
+    "78.0": {
+        "name": "bayfm",
+        "timetable": "http://www.bayfm.co.jp/table/friday.html",
+        "twitter": "bayfm78MHz"
+    },
+    "78.2": {
+        "name": "むさしのFM",
+        "timetable": "http://www.musashino-fm.co.jp/",
+        "twitter": "musashinoFM782"
+    },
+    "78.9": {
+        "name": "かつしかFM",
+        "timetable": "http://www.kfm789.co.jp/",
+        "twitter": "kfm789"
+    },
+    "79.0": {
+        "name": "多摩レイクサイドFM",
+        "timetable": "http://www.geocities.jp/tamalakesidefm/page022.html",
+        "twitter": ""
+    },
+    "79.2": {
+        "name": "Rainbow Town FM",
+        "timetable": "http://792fm.com/timetable",
+        "twitter": ""
+    },
+    "79.5": {
+        "name": "NACK5",
+        "timetable": "http://www.nack5.co.jp/timetable.shtml",
+        "twitter": "fm_nack5"
+    },
+    "80.0": {
+        "name": "Tokyo FM",
+        "timetable": "http://www.tfm.co.jp/timetable/",
+        "twitter": "tokyofm"
+    },
+    "81.3": {
+        "name": "J-Wave",
+        "timetable": "http://www.j-wave.co.jp/today/",
+        "twitter": "jwave813fm"
+    },
+    "82.5": {
+        "name": "NHK FM",
+        "timetable": "http://cgi4.nhk.or.jp/hensei/program/wk.cgi?area=001&tz=now&ch=07",
+        "twitter": "nhk_radiru"
+    },
+    "83.0": {
+        "name": "FM FUJI",
+        "timetable": "http://www.fmfuji.jp/ttable.html",
+        "twitter": "jocvfm"
+    },
+    "83.4": {
+        "name": "FM世田谷",
+        "timetable": "http://fmsetagaya.com/02time_table/index.html",
+        "twitter": ""
+    },
+    "83.8": {
+        "name": "調布FM",
+        "timetable": "http://www.chofu-fm.com/schedules",
+        "twitter": "chofu_fm"
+    },
+    "84.0": {
+        "name": "中央FM RadioCity",
+        "timetable": "http://fm840.jp/timetable.html",
+        "twitter": "chuofm840"
+    },
+    "84.2": {
+        "name": "FM西東京",
+        "timetable": "http://842fm.west-tokyo.co.jp/program/index.shtml",
+        "twitter": "fmnishitokyo"
+    },
+    "84.3": {
+        "name": "FMえどがわ",
+        "timetable": "http://www.fm843.co.jp/02_timetable/weekday.html",
+        "twitter": ""
+    },
+    "84.4": {
+        "name": "FMたちかわ",
+        "timetable": "http://www.fm844.co.jp/radiolisting",
+        "twitter": ""
+    },
+    "84.7": {
+        "name": "FMヨコハマ",
+        "timetable": "http://www.fmyokohama.co.jp/timetable/",
+        "twitter": "FyokoG"
+    },
+    "86.3": {
+        "name": "FMぐんま",
+        "timetable": "http://www.fmgunma.com/time/weekday.php",
+        "twitter": "fmgunma_bangumi"
+    },
+    "89.7": {
+        "name": "InterFM897",
+        "timetable": "http://www.interfm.co.jp/timetable/?region=tokyo",
+        "twitter": "InterFM897"
+    },
+    "90.5": {
+        "name": "TBSラジオ (ワイドFM)",
+        "timetable": "http://www.tbs.co.jp/radio/timetable/",
+        "twitter": "tbsr_pr"
+    },
+    "91.6": {
+        "name": "文化放送 (ワイドFM)",
+        "timetable": "http://www.joqr.co.jp/programsheet.php",
+        "twitter": "joqrpr"
+    },
+    "93.0": {
+        "name": "ニッポン放送 (ワイドFM)",
+        "timetable": "http://www.1242.com/timetable02/",
+        "twitter": "1242_PR"
+    }
+  }
+}

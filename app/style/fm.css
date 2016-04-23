@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+body {
+  pointer-events: none;
+  padding: 0;
+  font-size: 16px;
+  font-family: 'Fira Sans';
+  background-color: #fff;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+}
+
+#container {
+  margin-top: 1rem;
+  border-radius: 15px;
+  background-color: rgba(203, 255, 203, 0.3);
+  font-size: 2.2rem;
+  text-align: center;
+  -moz-user-select: none;
+}
+
+#powerButton {
+  font-size: 8.5rem;
+  border: 0 solid transparent;
+  border-radius: 3rem;
+  pointer-events: auto;
+}
+#radioStatus {
+  font-size: 3.8rem;
+}
+
+
+#freqLine {
+  display: flex;
+  margin: 0 1rem;
+}
+#radioFreq {
+  flex: auto;
+}
+#seekDown, #seekUp {
+  pointer-events: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border: 0 solid #fff;
+  border-radius: 0.8rem;
+}
+
+#radioStation {
+  margin: 0 2rem;
+  border-top: 1px dashed #aaa;
+  font-size: 1.5rem;
+}
+
+#toolContainer {
+  pointer-events: auto;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 191, 0.7);
+  font-size: 1.5rem;
+  -moz-user-select: none;
+}
+
+#toolContainer ul {
+  list-style-type: none;
+  margin: 0;
+  text-align: left;
+}
+#toolContainer li {
+  display: inline;
+  margin-right: 1rem;
+}
+
+#TokyoTower {
+  pointer-events: none;
+  font-size: 4.5rem;
+  text-align: right;
+}

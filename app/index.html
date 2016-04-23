@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="defaultLanguage" content="ja">
+    <meta name="availableLanguages" content="ja, en-US">
+    <link rel="localization" href="locales/fm.{locale}.properties">
+    <link rel="stylesheet" href="style/fm.css" type="text/css" />
+    <title>Tokyo Radio-chan</title>
+    <script defer src="js/l10n.js"></script>
+    <!-- script defer src="js/airplane_mode_helper.js"></script -->
+    <script defer src="js/fm.js"></script>
+  </head>
+
+  <body>
+    <h1 data-l10n-id="title"></h1><!-- 東京ラジオちゃん -->
+    <div id="container">
+      <span id="powerButton" role="button" data-l10n-id="powerButton">&#x1f4fb;</span>
+      <span id="radioStatus" role="presentation" data-l10n-id="radioStatus" aria-label=""></span>
+      <div id="freqLine">
+        <span id="seekDown" role="button" data-l10n-id="seekDown">&#x2770;</span>
+        <span id="radioFreq" role="status"></span>
+        <span id="seekUp" role="button" data-l10n-id="seekUp">&#x2771;</span>
+      </div>
+      <div id="radioStation"></div>
+    </div>
+    <div id="toolContainer">
+      <ul>
+        <li id="speakerButton"><img id="speakerIcon" src="./style/speaker_off.png"></li>
+        <li><a href="" id="timetable" target="_blank"><img src="./style/timetable.png"></a></li>
+        <li><a href="" id="twitter" target="_blank"><img src="./style/twitter.png"></a></li>
+      </ul>
+      <div id='TokyoTower' aria-hidden="true">&#x1f5fc;</div>
+    </div>
+
+<!--
+    <div id="airplane-mode-warning" class="warning" hidden>
+      <div class="warning-header" data-l10n-id="airplaneModeHeader">Airplane mode is on</div>
+      <div class="warning-body" data-l10n-id="airplaneModeMsg">Turn off Airplane mode to use FM Radio.</div>
+    </div>
+-->
+  </body>
+</html>
