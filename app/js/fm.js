@@ -428,7 +428,7 @@ window.addEventListener('load', function() {
     airplaneModeEnabled = AirplaneModeHelper.getStatus() == 'enabled';
   });
 */
-  loadJsonFile('/stations.json').then(function(stationData) {
+  loadJsonFile('stations.json').then(function(stationData) {
     console.log('Station data has been loaded.');
     Stations = stationData;
     loadStatus();
